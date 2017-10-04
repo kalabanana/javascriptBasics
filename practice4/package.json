@@ -1,0 +1,22 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "This is js practices",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kalabanana"
+  },
+  "keywords": [
+    "underscorejs"
+  ],
+  "author": "Qiu Mei",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "underscore": "^1.8.3"
+  }
+}
